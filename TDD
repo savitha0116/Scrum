@@ -1,0 +1,8 @@
+TDD (Test-Driven Development) is a software development approach in which tests are written before writing the actual code.
+This approach ensures that the code is testable, reliable, and meets the required functionality.
+TDD Process:
+1. Write a Test: Write a test for a specific piece of functionality.
+2. Run the Test: Run the test and see it fail (since the code doesn't exist yet).
+3. Write the Code: Write the code to make the test pass.
+4. Run the Test Again: Run the test again and see it pass.
+5. Refactor the Code: Refactor the code to make it more maintainable and efficient.
